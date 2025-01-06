@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jeffreygonzalez
-- 👀 I’m interested in music, programming, and coffee.
-- 🌱 I’m currently learning python and SQL
-- 💞️ I’m looking to collaborate on small projects to further develop my knowledge of programming.
+- 👀 I’m interested in game dev, programming, and coffee.
+- 🌱 I’m currently learning Godot, GDScript, and C++
+- 🫡 I’m looking to collaborate on small projects to further develop my knowledge of programming.
 - 📫 How to reach me jgonzalez9842@gmail.com
 
 <!---
